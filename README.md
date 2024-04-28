@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Isabel
-- 🌱 I’m currently learning C++, Python and Javascript
-- 💞️ I enjoy working on game design projects
+- 🌱 I enjoy working on game design projects
 - 📫 Reach me on instagram @isaliuu
 - 😄 I love dancing, swimming and art
 
